@@ -1,7 +1,6 @@
 #!/bin/python3
 import os
 
-
 os_type = os.popen("uname -a").read()
 user_name = os.popen("whoami").read().splitlines()[0]
 
