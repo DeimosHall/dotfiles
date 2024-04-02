@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git config --global user.name "Deimos"
+git config --global user.name "deimos"
 git config --global user.email deimoshall@gmail.com
 git config --global core.editor "nano"
 git config --global init.defaultBranch main
